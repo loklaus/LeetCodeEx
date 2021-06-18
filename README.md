@@ -1,4 +1,4 @@
-# LeetCodeEx
+# LetCodeEx
 
 ## [292.Nim Game](https://github.com/loklaus/LeetCodeEx/blob/master/292.Nim%20Game.cpp)
 ## [258.Add Digits](https://github.com/loklaus/LeetCodeEx/blob/master/258.Add%20Digits.cpp)
